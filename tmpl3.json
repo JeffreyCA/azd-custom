@@ -6,5 +6,13 @@
       "tags": [
         "bicep"
       ]
+    },
+    {
+      "name": "Jeff's Hello AZD 2",
+      "description": "Jeff's Hello AZD 2",
+      "repositoryPath": "https://gitlab.com/JeffreyCA/jeff-hello-azd",
+      "tags": [
+        "bicep"
+      ]
     }
 ]
