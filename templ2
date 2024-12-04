@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Jeff's Hello AZD",
+        "description": "Jeff's Hello AZD",
+        "preview": "https://azure.github.io/awesome-azd/templates/images/hello-azd.png",
+        "website": "https://github.com/JeffreyCA",
+        "author": "JeffreyCA",
+        "source": "https://github.com/JeffreyCA/hello-azd",
+        "tags": [
+            "dotnetCsharp",
+            "blobstorage",
+            "aca",
+            "cosmosdb",
+            "bicep",
+            "managedidentity",
+            "msft"
+        ]
+    }
+]
